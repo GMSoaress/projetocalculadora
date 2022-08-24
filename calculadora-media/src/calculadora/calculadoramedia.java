@@ -7,7 +7,7 @@ public class calculadoramedia {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		JOptionPane.showMessageDialog(null, "Coloque as nota do aluno a seguir de 0 a 10!");
+		JOptionPane.showMessageDialog(null, "Coloque as notas de 0 a 10 do aluno a seguir! ");
 		
 		/* Inserir notas aqui */
 		String nota1 = JOptionPane.showInputDialog("Informe a nota 1 : ");
