@@ -9,6 +9,7 @@ public class calculadoramedia {
 		
 		JOptionPane.showMessageDialog(null, "Coloque as nota do aluno a seguir de 0 a 10!");
 		
+		/* Inserir notas aqui */
 		String nota1 = JOptionPane.showInputDialog("Informe a nota 1 : ");
 		String nota2 = JOptionPane.showInputDialog("Informe a nota 2 : ");
 		String nota3 = JOptionPane.showInputDialog("Informe a nota 3 : ");
