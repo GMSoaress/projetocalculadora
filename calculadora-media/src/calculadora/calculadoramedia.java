@@ -21,6 +21,7 @@ public class calculadoramedia {
 		double dNota3 = Double.parseDouble(nota3);
 		double dNota4 = Double.parseDouble(nota4);
 		
+		/* Calculo de média */
 		double media = (dNota1 + dNota2 + dNota3 + dNota4) / 4;
 		
 		
